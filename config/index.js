@@ -1,4 +1,4 @@
-require('dotenv').config()
+require('dotenv').config();
 
 module.exports = {
     googleTimeApiKey: process.env.GOOGLE_TIME_API_KEY,
